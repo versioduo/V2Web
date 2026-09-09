@@ -737,7 +737,7 @@ html {
         >ul {
           column-gap: 0.5rem;
           display: grid;
-          max-height: calc(100vh - 3rem);
+          max-height: calc(100svh - 3rem);
           width: 100%;
           overflow-y: auto;
           padding-left: 0.5rem;
